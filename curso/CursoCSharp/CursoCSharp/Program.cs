@@ -1,14 +1,13 @@
 ﻿using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.Colecoes;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
-/*
-using CursoCSharp.Colecoes;
-using CursoCSharp.OO;
-using CursoCSharp.MetodosEFuncoes;
-using CursoCSharp.Excecoes;
-using CursoCSharp.Api;
-using CursoCSharp.TopicosAvancados;
-*/
+// using CursoCSharp.OO;
+// using CursoCSharp.MetodosEFuncoes;
+// using CursoCSharp.Excecoes;
+// using CursoCSharp.Api;
+// using CursoCSharp.TopicosAvancados;
+
 namespace CursoCSharp
 {
     class Program
@@ -63,7 +62,7 @@ namespace CursoCSharp
                 { "Valor Vs Referência - Classes e Métodos", ValorVsReferencia.Executar},
                 { "Parâmetros Por Referência - Classes e Métodos", ParametrosPorReferencia.Executar},
                 { "Parâmetro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar},
-                /*
+                
                 // Coleções
                 { "Array - Coleções", Colecoes.Array.Executar},
                 { "List - Coleções", ColecoesList.Executar},
@@ -73,7 +72,7 @@ namespace CursoCSharp
                 { "Igualdade - Coleções", Igualdade.Executar},
                 { "Stack - Coleções", ColecoesStack.Executar},
                 { "Dictionary - Coleções", ColecoesDictionary.Executar},
-
+                /*
                 // OO
                 { "Herança - OO", Heranca.Executar},
                 { "Construtor This - OO", ConstrutorThis.Executar},
@@ -82,7 +81,7 @@ namespace CursoCSharp
                 { "Abstract - OO", Abstract.Executar},
                 { "Interface - OO", Interface.Executar},
                 { "Sealed - OO", Sealed.Executar},
-
+                /*
                 // Métodos & Funções
                 { "Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar},
                 { "Lambdas Como Delegates - Métodos & Funções", LambdasDelegate.Executar},
@@ -90,11 +89,11 @@ namespace CursoCSharp
                 { "Delegates Como Função Anonima - Métodos & Funções", DelegateFunAnonima.Executar},
                 { "Delegates Como Parâmetros - Métodos & Funções", DelegatesComoParametros.Executar},
                 { "Métodos de Extensão - Métodos & Funções", MetodosDeExtensao.Executar},
-
+                /*
                 // Exceções
                 { "Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
                 { "Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
-
+                /*
                 // Api
                 { "Primeiro Arquivo - Usando API", PrimeiroArquivo.Executar},
                 { "Lendo Arquivos - Usando API", LendoArquivos.Executar},
@@ -104,7 +103,7 @@ namespace CursoCSharp
                 { "Exemplo Path - Usando API", ExemploPath.Executar},
                 { "Exemplo DateTime - Usando API", ExemploDateTime.Executar},
                 { "Exemplo Timespan - Usando API", ExemploTimeSpan.Executar},
-
+                /*
                 // Tópicos Avançados
                 { "LINQ #01 - Tópicos Avançados", LINQ1.Executar},
                 { "LINQ #02 - Tópicos Avançados", LINQ2.Executar},
