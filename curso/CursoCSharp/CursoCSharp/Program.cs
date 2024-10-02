@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 /*
-using CursoCSharp.EstruturasDeControle;
-using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
@@ -35,7 +32,7 @@ namespace CursoCSharp
                 {"Operadores de Atribuição - Fundamentos", OperadoresAtribuicao.Executar},
                 {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
                 {"Operador Ternário - Fundamentos", OperadorTernario.Executar},
-                /*
+
                 // Estruturas de Controle
                 {"Estrutura If - Estruturas de Controle", EstruturaIf.Executar},
                 {"Estrutura If/Else - Estruturas de Controle", EstruturaIfElse.Executar},
@@ -66,7 +63,7 @@ namespace CursoCSharp
                 { "Valor Vs Referência - Classes e Métodos", ValorVsReferencia.Executar},
                 { "Parâmetros Por Referência - Classes e Métodos", ParametrosPorReferencia.Executar},
                 { "Parâmetro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar},
-
+                /*
                 // Coleções
                 { "Array - Coleções", Colecoes.Array.Executar},
                 { "List - Coleções", ColecoesList.Executar},

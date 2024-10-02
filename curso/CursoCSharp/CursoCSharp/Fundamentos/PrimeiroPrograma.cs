@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CursoCSharp.Fundamentos
+﻿namespace CursoCSharp.Fundamentos
 {
     class PrimeiroPrograma
     {

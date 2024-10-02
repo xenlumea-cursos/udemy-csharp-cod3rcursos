@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CursoCSharp.Fundamentos
+﻿namespace CursoCSharp.Fundamentos
 {
     class OperadoresLogicos
     {

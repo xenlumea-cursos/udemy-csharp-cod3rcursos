@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="EstruturasDeControle\" />
+    <Folder Include="ClassesEMetodos\" />
+  </ItemGroup>
+
 </Project>
