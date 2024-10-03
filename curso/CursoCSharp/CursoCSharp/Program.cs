@@ -2,7 +2,7 @@
 using CursoCSharp.Colecoes;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
-// using CursoCSharp.OO;
+using CursoCSharp.OO;
 // using CursoCSharp.MetodosEFuncoes;
 // using CursoCSharp.Excecoes;
 // using CursoCSharp.Api;
@@ -72,7 +72,7 @@ namespace CursoCSharp
                 { "Igualdade - Coleções", Igualdade.Executar},
                 { "Stack - Coleções", ColecoesStack.Executar},
                 { "Dictionary - Coleções", ColecoesDictionary.Executar},
-                /*
+                
                 // OO
                 { "Herança - OO", Heranca.Executar},
                 { "Construtor This - OO", ConstrutorThis.Executar},

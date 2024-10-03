@@ -11,6 +11,11 @@
     <Folder Include="EstruturasDeControle\" />
     <Folder Include="ClassesEMetodos\" />
     <Folder Include="Colecoes\" />
+    <Folder Include="OO\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj" />
   </ItemGroup>
 
 </Project>
