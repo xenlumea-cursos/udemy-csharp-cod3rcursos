@@ -11,6 +11,8 @@
     <Folder Include="EstruturasDeControle\" />
     <Folder Include="ClassesEMetodos\" />
     <Folder Include="Colecoes\" />
+    <Folder Include="MetodosEFuncoes\" />
+    <Folder Include="Excecoes\" />
     <Folder Include="OO\" />
   </ItemGroup>
 

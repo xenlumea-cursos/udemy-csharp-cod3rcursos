@@ -1,10 +1,10 @@
 ﻿using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.EstruturasDeControle;
+using CursoCSharp.Excecoes;
 using CursoCSharp.Fundamentos;
+using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.OO;
-// using CursoCSharp.MetodosEFuncoes;
-// using CursoCSharp.Excecoes;
 // using CursoCSharp.Api;
 // using CursoCSharp.TopicosAvancados;
 
@@ -81,7 +81,7 @@ namespace CursoCSharp
                 { "Abstract - OO", Abstract.Executar},
                 { "Interface - OO", Interface.Executar},
                 { "Sealed - OO", Sealed.Executar},
-                /*
+                
                 // Métodos & Funções
                 { "Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar},
                 { "Lambdas Como Delegates - Métodos & Funções", LambdasDelegate.Executar},
@@ -89,7 +89,7 @@ namespace CursoCSharp
                 { "Delegates Como Função Anonima - Métodos & Funções", DelegateFunAnonima.Executar},
                 { "Delegates Como Parâmetros - Métodos & Funções", DelegatesComoParametros.Executar},
                 { "Métodos de Extensão - Métodos & Funções", MetodosDeExtensao.Executar},
-                /*
+                
                 // Exceções
                 { "Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
                 { "Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
