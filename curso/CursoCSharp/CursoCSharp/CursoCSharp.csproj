@@ -13,6 +13,8 @@
     <Folder Include="Colecoes\" />
     <Folder Include="MetodosEFuncoes\" />
     <Folder Include="Excecoes\" />
+    <Folder Include="Api\" />
+    <Folder Include="TopicosAvancados\" />
     <Folder Include="OO\" />
   </ItemGroup>
 
